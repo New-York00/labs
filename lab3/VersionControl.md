@@ -35,7 +35,7 @@ Version control systems purpose:
 	3. Local Version Control Systems (Optimistic)
 	When you do copy of the file on your own PC and named them file name + date + etc..
 
-# Comparison of popular version control systems (Git, Subversion, Mercurial, etc.)
+# Comparison of popular version control systems (Git, Subversion, Mercurial, etc)
 
 | GIT | Mercurial |
 |-----|-----------|
